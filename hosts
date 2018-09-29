@@ -42,3 +42,8 @@
 
 ## db-[99:101]-node.example.com
 
+
+# [FERM_APACH]
+# 192.168.121.215
+
+ testsrv ansible_host=192.168.121.215 ansible_port=22 ansible_user=vagrant ansible_private_key_file=/home/eirei/projects/Ansible_VM/.vagrant/machines/default/libvirt/private_key
